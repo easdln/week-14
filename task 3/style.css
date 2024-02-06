@@ -1,0 +1,31 @@
+body{
+    background-image: url('https://catherineasquithgallery.com/uploads/posts/2021-02/1613687267_3-p-fon-dlya-prezentatsii-kinoplenka-3.jpg');
+}
+
+h1{
+    text-align: center;
+}
+.wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.directors_list{
+    display: block;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 140%;
+}
+.director_career{
+    font-size: 17px;
+    color: rgb(17, 104, 109);
+}
+.container{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.best_films{
+    font-size: 18px;
+}
